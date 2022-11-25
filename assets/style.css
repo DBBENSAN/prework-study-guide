@@ -6,7 +6,7 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 150px;
     background-color: blue;
     color: white
 }
@@ -14,6 +14,7 @@ footer {
 h1,
 h2 {
     text-align: center;
+    block-size: auto;
 }
 
 img {
